@@ -1,0 +1,16 @@
+[
+{
+  "modid": "enmod",
+  "name": "Enlightenment Mod",
+  "description": "A brand new Minecraft experience featuring new recruitable NPCs, items, and bosses.",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "https://github.com/JadenBailey",
+  "updateUrl": "",
+  "authorList": ["Jadecus"],
+  "credits": "My self-motivation and YouTube tutorials.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,24 @@
+{
+    "pools": [
+        {
+            "name": "IgnisMain",
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "weight": 100,
+                    "name": "enmod:Incinerate",
+                    "functions": [
+                        {
+                            "function": "set_count",
+                            "count": {
+                                "min": 1,
+                                "max": 1
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

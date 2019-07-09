@@ -1,0 +1,7 @@
+// Items
+item.mana_orb.name=Mana Orb
+item.incinerate.name=Incinerate
+
+// Entities
+entity.human.name=Human
+entity.ignis.name=Ignis
