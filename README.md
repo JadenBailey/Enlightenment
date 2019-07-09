@@ -1,5 +1,6 @@
 # Enlightenment
 Enlightenment is a 1.12.2 Minecraft mod that provides a brand new experience to your Minecraft game.
+[Download Now](https://github.com/JadenBailey/Enlightenment/releases/download/v1.0/Enlightenment-1.12.2.jar)
 
 This includes:
 
